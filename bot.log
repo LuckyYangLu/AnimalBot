@@ -1,0 +1,12 @@
+2026-10-29 23:14:39 start click=False max_actions=6
+2026-10-29 23:14:40 #0001 ad_done score=1.0
+2026-10-29 23:14:40 action close_ad at (368, 91)
+2026-10-29 23:14:42 #0002 ad_done score=1.0
+2026-10-29 23:14:42 action close_ad at (368, 91)
+2026-10-29 23:14:43 end recognized=2 actions=2
+2026-10-29 23:50:53 start click=False max_actions=6
+2026-10-29 23:50:54 #0001 unknown score=0.0
+2026-10-29 23:50:54 end recognized=1 actions=0
+2026-10-29 23:51:27 start click=False max_actions=6
+2026-10-29 23:51:29 #0001 unknown score=0.0
+2026-10-29 23:51:29 end recognized=1 actions=0
