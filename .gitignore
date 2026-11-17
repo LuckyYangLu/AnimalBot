@@ -1,0 +1,17 @@
+# 便携版 Python 运行时（142MB，自行准备）
+python/
+
+# 调试截图/录屏
+shots/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 日志与临时文件
+*.log
+*.pid
+*.bak
+
+# 调试残留文件
+290000
